@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @12lovely
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning ethical hacking and cyber security
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lovelychind53@gmai.com
 
 <!---

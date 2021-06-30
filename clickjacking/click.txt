@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>I Frame</title>
+</head>
+<body>
+<h3>clickjacing vulnerability</h3>
+<iframe src="" height="550px" width="700px">
+</iframe>
+</body>
+</html>
